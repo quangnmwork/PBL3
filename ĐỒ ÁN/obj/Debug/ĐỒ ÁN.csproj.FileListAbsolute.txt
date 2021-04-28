@@ -1,0 +1,20 @@
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\bin\Debug\ĐỒ ÁN.exe.config
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\bin\Debug\ĐỒ ÁN.exe
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\bin\Debug\ĐỒ ÁN.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\obj\Debug\ĐỒ ÁN.csprojAssemblyReference.cache
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\obj\Debug\ĐỒ_ÁN.Form1.resources
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\obj\Debug\ĐỒ_ÁN.Properties.Resources.resources
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\obj\Debug\ĐỒ ÁN.csproj.GenerateResource.cache
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\obj\Debug\ĐỒ ÁN.csproj.CoreCompileInputs.cache
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\obj\Debug\ĐỒ ÁN.exe
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\obj\Debug\ĐỒ ÁN.pdb
+C:\Users\Admin\Desktop\doan\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\bin\Debug\ĐỒ ÁN.exe.config
+C:\Users\Admin\Desktop\doan\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\bin\Debug\ĐỒ ÁN.exe
+C:\Users\Admin\Desktop\doan\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\bin\Debug\ĐỒ ÁN.pdb
+C:\Users\Admin\Desktop\doan\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\obj\Debug\ĐỒ ÁN.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\doan\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\obj\Debug\ĐỒ_ÁN.Form1.resources
+C:\Users\Admin\Desktop\doan\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\obj\Debug\ĐỒ_ÁN.Properties.Resources.resources
+C:\Users\Admin\Desktop\doan\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\obj\Debug\ĐỒ ÁN.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\doan\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\obj\Debug\ĐỒ ÁN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\doan\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\obj\Debug\ĐỒ ÁN.exe
+C:\Users\Admin\Desktop\doan\Đồ án mới\ĐỒ ÁN\ĐỒ ÁN\obj\Debug\ĐỒ ÁN.pdb
